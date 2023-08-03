@@ -1,38 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+"PC-Builder is a feature-rich website that offers users a seamless online shopping experience for a wide range of computer products. Built with cutting-edge technologies like Next.js, NextAuth, MongoDB, Tailwind CSS, and DaisyUI, PC-Builder ensures a smooth and responsive user interface.
 
-## Getting Started
+With a secure login system, private routes, and the power of NextAuth, only authenticated users can access exclusive features and make purchases on the platform. Our extensive collection includes high-quality CPUs, motherboards, RAM, power supply units, storage devices, monitors, and more, catering to both tech enthusiasts and professionals alike.
 
-First, run the development server:
+PC-Builder's user-friendly design allows customers to effortlessly navigate through the product catalog, read detailed descriptions, and explore customer reviews. Thanks to Next.js's server-side rendering capabilities, the site offers lightning-fast loading times and ensures a seamless shopping experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+We take data security seriously, and that's why we've chosen MongoDB as our backend database. It provides robust data storage and allows us to handle transactions securely and efficiently.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Our website's visually appealing layout is made possible by the combination of Tailwind CSS and DaisyUI, resulting in a clean and modern design that adapts flawlessly to different screen sizes and devices.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Whether you're building a gaming rig, a workstation, or upgrading your existing setup, PC-Builder is your one-stop destination for top-tier computer products. Shop with confidence and enjoy the convenience of a secure and efficient online shopping experience at PC-Builder."
