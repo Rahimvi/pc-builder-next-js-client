@@ -8,7 +8,7 @@ const LoginPage = () => {
         <button
           onClick={() =>
             signIn("google", {
-              callbackUrl: "http://localhost:3000/",
+              callbackUrl: "https://pc-builder-phi-swart.vercel.app/",
             })
           }
           className="bg-red-600 text-white w-full py-3 rounded-md flex items-center justify-center mb-4"
@@ -19,7 +19,7 @@ const LoginPage = () => {
         <button
           onClick={() =>
             signIn("github", {
-              callbackUrl: "http://localhost:3000/",
+              callbackUrl: "https://pc-builder-phi-swart.vercel.app/",
             })
           }
           className="bg-black text-white w-full py-3 rounded-md flex items-center justify-center"

@@ -9,3 +9,5 @@ We take data security seriously, and that's why we've chosen MongoDB as our back
 Our website's visually appealing layout is made possible by the combination of Tailwind CSS and DaisyUI, resulting in a clean and modern design that adapts flawlessly to different screen sizes and devices.
 
 Whether you're building a gaming rig, a workstation, or upgrading your existing setup, PC-Builder is your one-stop destination for top-tier computer products. Shop with confidence and enjoy the convenience of a secure and efficient online shopping experience at PC-Builder."
+
+live-link: https://pc-builder-phi-swart.vercel.app/
